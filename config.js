@@ -27,8 +27,8 @@ module.exports = {
 
     NOTE: Set to falsy value if using Docker.
   */
-  serveFilesWithNode: false,
-  domain: 'https://lolisafe.moe',
+  serveFilesWithNode: true,
+  domain: 'https://image.tlp.pink',
 
   /*
     If you serve files with node, you can optionally choose to set Content-Disposition header
